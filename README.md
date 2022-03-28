@@ -1,6 +1,6 @@
 # lynisAutomation
 
-SSH into remote server.
+SSH into remote server and run the following commands
 ```
 git clone https://github.com/ashwinkkkk/lynisAutomation.git
 cd lynisAutomation
